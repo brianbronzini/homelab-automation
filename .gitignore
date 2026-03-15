@@ -1,0 +1,15 @@
+# Secrets
+*.env
+*_key
+*_secret
+*.pem
+*.key
+*password*
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+.DS_Store
